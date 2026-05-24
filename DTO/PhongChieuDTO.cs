@@ -1,0 +1,19 @@
+﻿using System;
+using System.Collections.Generic;
+using System.Linq;
+using System.Text;
+using System.Threading.Tasks;
+
+namespace DTO
+{
+    public class PhongChieuDTO
+    {
+         
+        public int MaPhong { get; set; }
+        public int MaRap { get; set; }
+        public string TenPhong { get; set; }
+        public string LoaiPhong { get; set; }
+        public string TrangThai { get; set; }
+    }
+}
+

@@ -1,0 +1,5 @@
+C:\Users\asus\source\repos\PJ_QuanLyRapChieuPhim\DTO\bin\Debug\DTO.dll
+C:\Users\asus\source\repos\PJ_QuanLyRapChieuPhim\DTO\bin\Debug\DTO.pdb
+C:\Users\asus\source\repos\PJ_QuanLyRapChieuPhim\DTO\obj\Debug\DTO.csproj.CoreCompileInputs.cache
+C:\Users\asus\source\repos\PJ_QuanLyRapChieuPhim\DTO\obj\Debug\DTO.dll
+C:\Users\asus\source\repos\PJ_QuanLyRapChieuPhim\DTO\obj\Debug\DTO.pdb
